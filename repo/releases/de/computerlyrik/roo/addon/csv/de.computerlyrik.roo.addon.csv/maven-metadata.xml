@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.computerlyrik.roo.addon.csv</groupId>
+  <artifactId>de.computerlyrik.roo.addon.csv</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20121210181538</lastUpdated>
+  </versioning>
+</metadata>
