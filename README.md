@@ -12,5 +12,5 @@ osgi start --url https://github.com/computerlyrik/roo-addon-csv/raw/master/repo/
 
 ## Uninstallation
 ```bash
-osgi uninstall --bundleSymbolicName de.computerlyrik.roo.addon.csv
+osgi uninstall --bundleSymbolicName de.computerlyrik.roo.addon.copy
 ```
